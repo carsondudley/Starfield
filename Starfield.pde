@@ -1,6 +1,6 @@
 //double myX = 200;
 //double myY = 200;
-    NormalParticle Bob[] = new NormalParticle[1000];
+    NormalParticle Bob[] = new NormalParticle[10000];
     JumboParticle Eddie = new JumboParticle((double)Math.random() * 360);
     OddballParticle Joe = new OddballParticle();
 
